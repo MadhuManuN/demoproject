@@ -11,6 +11,7 @@ public class Fibano {
 		int num=scanner.nextInt();
 		
 		int x=1,y=0,z=0;
+		System.out.print(y);
 		for(int i=0;i<=num-1;i++)
 		{
 			z=x+y;
